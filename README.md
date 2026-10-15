@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shubham Rai</h1>
+<h1 align="center">,  Shubham Rai</h1>
 
 <h3 align="center">
   Data Analyst | Python Developer | AI & Machine Learning Enthusiast
