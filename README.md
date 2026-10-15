@@ -107,29 +107,55 @@
 
 ## 🚀 Featured Projects
 
-### 📱 Mobile Sales Analysis Dashboard
-**Tools:** Power BI | DAX | Excel
 
-- Analyze revenue, transactions, customer ratings, and sales trends.
-- Create interactive dashboards to communicate business insights.
+---
 
-### 🛒 Blinkit Sales Analysis
-**Tools:** Power BI | Excel | Data Visualization
+## 🚀 Featured Projects
 
-- Explore sales performance, product categories, and outlet trends.
-- Present key performance indicators through interactive visuals.
+### 💼 1. LinkedIn Job Market Intelligence Dashboard
+**Technologies:** Power BI | Excel | Data Analytics | Data Visualization
 
-### 🏍️ Ola Rider Analysis
-**Tools:** Data Analysis | SQL / Python | Visualization
+- Analyze job market trends, job titles, and in-demand skills.
+- Explore hiring patterns and opportunities across roles and industries.
+- Present insights through interactive dashboards and KPIs.
 
-- Investigate ride-related trends and performance indicators.
-- Identify patterns that support data-driven decisions.
+### 🏦 2. Loan Approval Analysis Project
+**Technologies:** Python | Pandas | NumPy | SQL | Data Visualization
 
-### 🚗 Car Price Prediction
-**Tools:** Python | Pandas | Machine Learning | Streamlit
+- Analyze applicant profiles and loan approval patterns.
+- Explore relationships between applicant characteristics and approval outcomes.
+- Identify key factors and trends to support data-driven lending insights.
 
-- Develop a model to estimate car prices using vehicle features.
-- Present predictions through an interactive application.
+### 🛵 3. Ola Analysis Project
+**Technologies:** SQL | Excel | Power BI | Data Analytics
+
+- Analyze ride-booking data, revenue, and operational performance.
+- Track ride trends, cancellations, and customer-related metrics where available.
+- Build visualizations to understand service performance and business trends.
+
+### 📊 4. Sales Analysis Project
+**Technologies:** SQL | Excel | Power BI | DAX
+
+- Analyze sales, revenue, profit, and product performance.
+- Track KPIs and sales trends across categories, regions, and time periods.
+- Create interactive reports to support business decision-making.
+
+### 📦 5. Procurement Intelligence Dashboard
+**Technologies:** Power BI | Excel | SQL | Data Visualization
+
+- Analyze procurement spending, supplier performance, and purchasing trends.
+- Monitor supplier costs, purchase orders, and delivery performance where data is available.
+- Build KPI dashboards to support purchasing decisions and cost optimization.
+
+---
+
+## 📌 Project Repository Links
+
+<p align="left">
+  <a href="https://github.com/shubhamrai09">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
+  </a>
+</p>
 
 ---
 
