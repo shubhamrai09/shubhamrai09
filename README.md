@@ -17,7 +17,6 @@
   <a href="https://www.linkedin.com/in/shubham-rai-b34b5137a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- <img src="https://komarev.com/ghpvc/?username=shubhamrai09&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
