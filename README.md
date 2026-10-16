@@ -15,10 +15,6 @@
   <strong>Machine Learning</strong> 🧠
 </p>
 
-<p align="center">
-  Turning Data into Insights and Insights into Impact 🚀
-</p>
-
 
 <p align="center">
   Turning raw data into actionable insights through data analysis,
