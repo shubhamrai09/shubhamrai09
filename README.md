@@ -1,9 +1,24 @@
 
-<h1 align="center">  Shubham Rai </h1>
+
+<h1 align="center">
+  <strong>✦ SHUBHAM RAI ✦</strong>
+</h1>
 
 <h3 align="center">
-  Data Analyst | Python Developer | AI & Machine Learning Enthusiast
+  📊 Data Analyst · 🤖 Aspiring Data Scientist
 </h3>
+
+<p align="center">
+  <strong>SQL</strong> 🗄️ &nbsp;•&nbsp;
+  <strong>Python</strong> 🐍 &nbsp;•&nbsp;
+  <strong>Power BI</strong> 📈 &nbsp;•&nbsp;
+  <strong>Machine Learning</strong> 🧠
+</p>
+
+<p align="center">
+  Turning Data into Insights and Insights into Impact 🚀
+</p>
+
 
 <p align="center">
   Turning raw data into actionable insights through data analysis,
