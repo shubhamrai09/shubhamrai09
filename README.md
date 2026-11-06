@@ -7,12 +7,13 @@
 </h3>
 
 <p align="center">
-  <strong>SQL</strong> 🗄️ &nbsp;•&nbsp;
-  <strong>Python</strong> 🐍 &nbsp;•&nbsp;
-  <strong>Power BI</strong> 📈 &nbsp;•&nbsp;
-  <strong>Machine Learning</strong> 🧠
+  Exploring Data with <strong>SQL</strong> 🗄️ &nbsp;•&nbsp;
+  Building with <strong>Python</strong> 🐍 &nbsp;•&nbsp;
+  Visualizing with <strong>Power BI</strong> 📊 &nbsp;•&nbsp;
+  Learning <strong>Machine Learning</strong> 🧠 &nbsp;•&nbsp;
+  Creating with <strong>Claude Code</strong> ⚡ &nbsp;•&nbsp;
+  Automating with <strong>n8n</strong> 🔄
 </p>
-
 
 <p align="center">
   Turning raw data into actionable insights through data analysis,
