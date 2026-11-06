@@ -92,16 +92,6 @@
   <img src="https://img.shields.io/badge/API_Integration-2E7D32?style=for-the-badge" alt="API Integration"/>
 </p>
 
-Designing and building automated business workflows.
-
-Connecting applications and services through APIs and webhooks.
-
-Using Claude Code for AI-assisted coding and development.
-
-Building automation workflows with n8n.
-
-Exploring AI-powered agents and intelligent business processes.
-
 
 ### 🗄️ Databases & Data Management
 
