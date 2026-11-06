@@ -5,6 +5,7 @@
 <h3 align="center">
   📊 Turning Data into Insights | 🤖 Learning Data Science | ⚡ Building Smart Automations
 
+
 <p align="center">
   Exploring <strong>Data Analytics</strong> 📊 &nbsp;•&nbsp;
   Working with <strong>SQL & Python</strong> 🐍 &nbsp;•&nbsp;
