@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  📊 Data Analyst · 🤖 Aspiring Data Scientist
+  📊 Turning Data into Insights | 🤖 Learning Data Science | ⚡ Building Smart Automations
 </h3>
 
 <p align="center">
@@ -75,6 +75,16 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
+</p>
+
+#### ⚡ AI Automation & Workflow Development
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-00838F?style=for-the-badge" alt="Workflow Automation"/>
+  <img src="https://img.shields.io/badge/Process_Automation-1565C0?style=for-the-badge" alt="Process Automation"/>
+  <img src="https://img.shields.io/badge/API_Integration-2E7D32?style=for-the-badge" alt="API Integration"/>
 </p>
 
 ### 🗄️ Databases & Data Management
