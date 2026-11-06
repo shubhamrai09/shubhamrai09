@@ -3,20 +3,21 @@
 </h1>
 
 <h3 align="center">
-  📊 Turning Data into Insights | 🤖 Learning Data Science | ⚡ Building Smart Automations
+  📊 Data Analyst · 🤖 Aspiring Data Scientist
+</h3>
+
+<p align="center">
+  <strong>SQL</strong> 🗄️ &nbsp;•&nbsp;
+  <strong>Python</strong> 🐍 &nbsp;•&nbsp;
+  <strong>Power BI</strong> 📈 &nbsp;•&nbsp;
+  <strong>Machine Learning</strong> 🧠
+</p>
 
 
 <p align="center">
-  Exploring <strong>Data Analytics</strong> 📊 &nbsp;•&nbsp;
-  Working with <strong>SQL & Python</strong> 🐍 &nbsp;•&nbsp;
-  Creating <strong>Power BI Dashboards</strong> 📈 &nbsp;•&nbsp;
-  Exploring <strong>Machine Learning & AI</strong> 🧠 &nbsp;•&nbsp;
-  Building with <strong>Claude Code</strong> ⚡ &nbsp;•&nbsp;
-  Creating <strong>n8n Workflows</strong> 🔄 &nbsp;•&nbsp;
-  Connecting Tools with <strong>AI Integration</strong> 🤖
+  Turning raw data into actionable insights through data analysis,
+  visualization, and intelligent solutions.
 </p>
-  
-
 
 <p align="center">
   <a href="https://github.com/shubhamrai09">
@@ -31,21 +32,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Graduate.
+- 🎓 Computer Science Engineering Graduate
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🐍 Working with Python, SQL, and data analysis libraries
+- 📈 Building interactive dashboards with Power BI and Excel
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🚀 Focused on practical projects, continuous learning, and problem-solving
 
-📊 Interested in Data Analytics, Business Intelligence, and Data Science.
-
-🐍 Working with Python, SQL, Pandas, NumPy, and data analysis libraries.
-
-📈 Building interactive dashboards and business reports using Power BI and Excel.
-
-🤖 Exploring Artificial Intelligence, Machine Learning, and AI Agents.
-
-⚡ Building automated workflows using n8n and Claude Code.
-
-🔄 Interested in workflow automation, API integrations, and business process optimization.
-
-🚀 Focused on solving real-world problems through data-driven and intelligent solutions.
 ---
 
 ## 🛠️ Technical Skills
@@ -80,17 +73,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
 </p>
-
-### ⚡ AI Automation & Workflow Development
-
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Workflow_Automation-00838F?style=for-the-badge" alt="Workflow Automation"/>
-  <img src="https://img.shields.io/badge/Process_Automation-1565C0?style=for-the-badge" alt="Process Automation"/>
-  <img src="https://img.shields.io/badge/API_Integration-2E7D32?style=for-the-badge" alt="API Integration"/>
-</p>
-
 
 ### 🗄️ Databases & Data Management
 
@@ -132,7 +114,7 @@
 
 ---
 
-
+## 🚀 Featured Projects
 
 
 ---
@@ -206,4 +188,3 @@
 <p align="center">
   <i>Analyze data. Discover insights. Build solutions.</i>
 </p>
-
