@@ -4,12 +4,15 @@
 
 <h3 align="center">
   📊 Turning Data into Insights | 🤖 Learning Data Science | ⚡ Building Smart Automations
-</h3>
+
 <p align="center">
-  <strong>SQL</strong> 🗄️ &nbsp;•&nbsp;
-  <strong>Python</strong> 🐍 &nbsp;•&nbsp;
-  <strong>Power BI</strong> 📈 &nbsp;•&nbsp;
-  <strong>Machine Learning</strong> 🧠
+  Exploring <strong>Data Analytics</strong> 📊 &nbsp;•&nbsp;
+  Working with <strong>SQL & Python</strong> 🐍 &nbsp;•&nbsp;
+  Creating <strong>Power BI Dashboards</strong> 📈 &nbsp;•&nbsp;
+  Exploring <strong>Machine Learning & AI</strong> 🧠 &nbsp;•&nbsp;
+  Building with <strong>Claude Code</strong> ⚡ &nbsp;•&nbsp;
+  Creating <strong>n8n Workflows</strong> 🔄 &nbsp;•&nbsp;
+  Connecting Tools with <strong>AI Integration</strong> 🤖
 </p>
 
 <p align="center">
