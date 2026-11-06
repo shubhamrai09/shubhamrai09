@@ -32,13 +32,21 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Graduate
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🐍 Working with Python, SQL, and data analysis libraries
-- 📈 Building interactive dashboards with Power BI and Excel
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🚀 Focused on practical projects, continuous learning, and problem-solving
+🎓 Computer Science Engineering Graduate.
 
+📊 Interested in Data Analytics, Business Intelligence, and Data Science.
+
+🐍 Working with Python, SQL, Pandas, NumPy, and data analysis libraries.
+
+📈 Building interactive dashboards and business reports using Power BI and Excel.
+
+🤖 Exploring Artificial Intelligence, Machine Learning, and AI Agents.
+
+⚡ Building automated workflows using n8n and Claude Code.
+
+🔄 Interested in workflow automation, API integrations, and business process optimization.
+
+🚀 Focused on solving real-world problems through data-driven and intelligent solutions.
 ---
 
 ## 🛠️ Technical Skills
@@ -73,6 +81,27 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
 </p>
+
+### ⚡ AI Automation & Workflow Development
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-00838F?style=for-the-badge" alt="Workflow Automation"/>
+  <img src="https://img.shields.io/badge/Process_Automation-1565C0?style=for-the-badge" alt="Process Automation"/>
+  <img src="https://img.shields.io/badge/API_Integration-2E7D32?style=for-the-badge" alt="API Integration"/>
+</p>
+
+Designing and building automated business workflows.
+
+Connecting applications and services through APIs and webhooks.
+
+Using Claude Code for AI-assisted coding and development.
+
+Building automation workflows with n8n.
+
+Exploring AI-powered agents and intelligent business processes.
+
 
 ### 🗄️ Databases & Data Management
 
