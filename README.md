@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  📊 Data Analyst · 🤖 Aspiring Data Scientist
+  📊 Turning Data into Insights | 🤖 Learning Data Science | ⚡ Building Smart Automations
 </h3>
 
 <p align="center">
